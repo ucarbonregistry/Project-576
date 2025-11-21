@@ -55,10 +55,10 @@ The purpose of the proposed project activity is to generate electricity using a 
 of energy i.e., solar radiation. The proposed project activity of 3.8 MW (i.e., 3835 kWp) is installation
 and operation of solar power plant at Village – Indran, Taluka – Bayad, in Aravalli district in the state
 of Gujarat are per details listed below:
-
-Village Taluka District Type Total installed capacity in AC kWp Commissioning date
+_________________
+Village /Taluka /District/ Type /Total installed capacity in AC kWp/ Commissioning date
 ____________
-Indran Bayad Aravalli Ground mounted 3835 10/09/2024
+Indran /Bayad /Aravalli/ Ground mounted/ 3835/ 10/09/2024
 ________________
 
 
