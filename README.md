@@ -60,8 +60,24 @@ Village /Taluka /District/ Type /Total installed capacity in AC kWp/ Commissioni
 ____________
 Indran /Bayad /Aravalli/ Ground mounted/ 3835/ 10/09/2024
 ________________
+ISSUANCE DATE: 10/04/2026
 
+QTY: 23060
 
+MP-01 : 10/09/2024-31/12/2025
+____________
+Serial Number: 0001-000001-003583-UCR-CoU-IN-576-10092024-31122024
+
+Vintage Year: 2024
+
+Quantity: 3583
+____________
+Serial Number: 0001-003584-023060-UCR-CoU-IN-576-01012025-31122025
+
+Vintage Year: 2025
+
+Quantity: 19477
+______________
 
 
 
